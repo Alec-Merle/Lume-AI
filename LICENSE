@@ -1,24 +1,40 @@
-This is free and unencumbered software released into the public domain.
+# License Agreement
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Copyright © 2025 DovaFeyn LLC. All rights reserved.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+This software, source code, documentation, and related files (the “Software”) are the intellectual property of **DovaFeyn LLC**.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+## Restrictions
 
-For more information, please refer to <https://unlicense.org>
+Unless you have obtained prior written permission from DovaFeyn LLC, you are **not permitted** to:
+
+- Copy, reproduce, or distribute the Software, in whole or in part.  
+- Modify, adapt, or create derivative works of the Software.  
+- Use the Software for commercial purposes, including but not limited to SaaS offerings, resale, or integration into other products.  
+- Reverse engineer, decompile, or attempt to derive the source code of any distributed binary forms.  
+
+## Authorized Use
+
+The Software may only be used for:
+
+- Personal reference and evaluation.  
+- Demonstration of functionality strictly as provided in this repository.  
+
+Any other use requires an explicit, written license agreement with **DovaFeyn LLC**.  
+
+## Liability Disclaimer
+
+The Software is provided “AS IS,” without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.  
+
+In no event shall **DovaFeyn LLC** or its contributors be held liable for any damages, whether direct, indirect, incidental, or consequential, arising from the use of or inability to use the Software.  
+
+## Enforcement
+
+Unauthorized use of this Software constitutes copyright infringement and may result in civil and/or criminal penalties under applicable law.  
+
+For licensing inquiries, contact:  
+**alec.com** 
+
+---
+
+*This License Agreement applies to all files and code within this repository unless explicitly stated otherwise.*
