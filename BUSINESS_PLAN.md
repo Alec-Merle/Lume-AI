@@ -61,4 +61,99 @@ Build an intuitive, AI-enhanced platform where **every document has history, eve
 ### Revenue Model  
 - **Tiered SaaS Pricing**: Based on number of documents/users.  
 - **Enterprise Tier**: Advanced compliance workflows, integrations, and audit logs.  
-- **Freemium Strategy**: Free tier with limited storage + summaries; upsell compliance-ready enterprise feature
+- **Freemium Strategy**: Free tier with limited storage + summaries; upsell compliance-ready enterprise features.  
+
+### Pricing Strategy  
+- Positioned competitively against SharePoint and Confluence but differentiated by **AI insights** + **governance strength**.  
+- **Optional add-ons**: Regulatory compliance packs, integration connectors.  
+
+---
+
+## Marketing Strategy  
+
+- **Landing Page**: Teaser with “Coming Soon” and email capture.  
+- **GitHub Presence**: Public repo with non-sensitive MVP code + README showcasing progress.  
+- **LinkedIn Thought Leadership**: Weekly posts about AI + governance.  
+- **Pilot Partnerships**: Early adoption with select enterprises and institutions.  
+- **Palantir Fellowship**: Showcase as a Foundry-integrated startup concept.  
+
+---
+
+## Competitive Advantage  
+
+- **Dual DNA**: Developer-grade version control + business-friendly UI.  
+- **AI Layer**: Summaries and auto-categorization reduce overhead.  
+- **Compliance-Ready**: Approvals + history for audit trails.  
+- **Integration with Foundry**: Unique positioning for enterprises already using Palantir.  
+
+---
+
+## Team & Talent Strategy  
+
+- **Founders**: Alec (Data Engineering, AI, Systems Integration)  
+- **Early Advisors**: Academic and professional mentors  
+- **Talent Pool**:  
+  - Developers from WashU and SIUE  
+  - Colleagues in enterprise tech and analytics  
+  - Professional network of contractors and alumni  
+
+---
+
+## Financial Projections (Preliminary)  
+
+### Startup Costs  
+- Compute & Hosting: $300–$1,000/month (cloud + GPUs)  
+- Domain & SaaS Stack: ~$50/month  
+- Marketing & Ads: $200–$300/month  
+- Initial Development: Self-funded + sweat equity  
+
+### Revenue Forecast (Year 1)  
+- $0–$10,000 from pilot programs  
+- VC or fellowship funding post-MVP  
+- Year 2+: Target six-figure ARR with enterprise adoption  
+
+---
+
+## Roadmap & Milestones  
+
+| Milestone                     | Target Date   |  
+|-------------------------------|---------------|  
+| React Prototype (Replit)      | Month 1       |  
+| Backend/API Integration       | Month 2–3     |  
+| MVP with AI Summaries         | Month 4       |  
+| First Pilot Deployment        | Month 5       |  
+| Palantir Fellowship Showcase  | Month 5–6     |  
+| Public Beta Launch            | Month 7+      |  
+
+---
+
+## Legal & Corporate Structure  
+
+- **Entity**: To be incorporated as DovaFeyn LLC (LumReth as product brand).  
+- **IP Protection**: Proprietary license, copyright owned by DovaFeyn LLC.  
+- **Trademarks**: LumReth™ as product brand.  
+
+---
+
+## Future Opportunities  
+
+- **Regulatory Compliance Modules**: Tailored packs for finance, healthcare, and government.  
+- **Integration Marketplace**: APIs and connectors for CRMs/ERPs.  
+- **Generative AI Drafting**: Not just summaries, but creating first drafts of reports.  
+- **Offline Secure Deployments**: Air-gapped environments for organizations with high security needs.  
+
+---
+
+## Appendix  
+
+- [x] GitHub Repo (MVP in progress)  
+- [x] License (Proprietary, DovaFeyn LLC)  
+- [ ] White Paper (in development)  
+- [ ] Team Bios  
+- [ ] First Pilot Case Study  
+
+---
+
+© 2025 DovaFeyn LLC. All rights reserved.  
+LumReth™ and associated systems are trademarks of DovaFeyn LLC.  
+Unauthorized reproduction, distribution, or modification of any part of this document or the associated software is strictly prohibited without express written permission.  
