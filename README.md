@@ -28,7 +28,6 @@ This project includes comprehensive documentation covering all aspects of develo
 
 ### 🔬 Technical Documentation
 - **[📑 Technical Whitepaper](./WHITEPAPER.md)** - In-depth technical analysis, architecture decisions, and implementation details
-- **[⚙️ System Architecture](./replit.md)** - Detailed technical architecture, user preferences, and development guidelines
 - **[🗃️ Database Schema](./shared/schema.ts)** - Complete data model definitions and type schemas
 - **[🛠️ Configuration Files](./components.json)** - UI component system configuration and aliases
 
@@ -153,7 +152,7 @@ The complete database schema is defined in [`shared/schema.ts`](./shared/schema.
 
 ### Production Deployment
 
-For production deployment on Replit or other platforms:
+For production deployment:
 
 ```bash
 # Build the application
@@ -216,7 +215,6 @@ Lume-AI/
 │   └── 📄 components.json        # shadcn/ui component configuration
 └── 📋 Documentation
     ├── 📄 README.md              # This comprehensive guide
-    ├── 📄 replit.md              # Technical architecture and development guidelines
     ├── 📄 BUSINESS_PLAN.md       # Complete business strategy and projections
     ├── 📄 BUSINESS_MODEL_CANVAS.md # Business model visualization
     ├── 📄 WHITEPAPER.md          # Technical whitepaper and research
@@ -394,7 +392,7 @@ GET /api/users                     # List all users (admin only)
 #### Development Tools
 - **Build System**: Vite with React plugin, ESBuild for production builds
 - **TypeScript**: Full type safety with strict mode enabled
-- **Code Quality**: Replit Vite plugins for development experience
+- **Code Quality**: Vite plugins for development experience
 - **Database Tools**: Drizzle Kit for schema management and migrations
 
 ### Component Development Patterns
@@ -550,7 +548,6 @@ Lume addresses a **$50 billion market opportunity** in enterprise document manag
 
 ### Development Contribution Workflow
 1. **Fork the repository** and create a feature branch
-2. **Follow coding standards** defined in this README and [`replit.md`](./replit.md)
 3. **Write comprehensive tests** for new features and bug fixes
 4. **Update documentation** for API changes and new features
 5. **Submit pull request** with detailed description and test coverage
