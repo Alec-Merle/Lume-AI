@@ -25,7 +25,6 @@ This project includes comprehensive documentation covering all aspects of develo
 - **[🎯 Business Model Canvas](./BUSINESS_MODEL_CANVAS.md)** - Visual business model overview and value propositions  
 - **[📈 Market Research](./LUME_MARKET_RESEARCH.md)** - Industry analysis, competitive landscape, and market opportunities
 - **[🤝 Palantir Partnership Proposal](./BEYOND_BOUNDARIES_PALANTIR_PITCH.md)** - Strategic partnership framework and integration roadmap
-- **[🎤 Demo Script](./PALANTIR_DEMO_SCRIPT.md)** - Presentation materials and talking points for partnership discussions
 
 ### 🔬 Technical Documentation
 - **[📑 Technical Whitepaper](./WHITEPAPER.md)** - In-depth technical analysis, architecture decisions, and implementation details
